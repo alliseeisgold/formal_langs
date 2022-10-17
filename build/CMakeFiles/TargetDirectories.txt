@@ -1,0 +1,4 @@
+/home/asror/formal_langs/build/CMakeFiles/formal_langs.dir
+/home/asror/formal_langs/build/CMakeFiles/tests.dir
+/home/asror/formal_langs/build/CMakeFiles/edit_cache.dir
+/home/asror/formal_langs/build/CMakeFiles/rebuild_cache.dir
